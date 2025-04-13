@@ -1,3 +1,3 @@
 main(){
-  print("OK");
+  print("OK command");
 }
